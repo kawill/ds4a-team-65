@@ -1,0 +1,16 @@
+{
+  "name": "team-65",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample_spec.js",
+  "dependencies": {
+    "cypress": "6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./node_modules/.bin/cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
